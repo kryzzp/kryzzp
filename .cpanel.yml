@@ -1,5 +1,0 @@
----
-deployment:
-      tasks:
-        - export DEPLOYPATH=/home/ditzzsen/public_html/
-        - /bin cp * $DEPLOYPATH
